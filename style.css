@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+    
+}
+
 header {
   height: 80px;
   background-color: #6c63ff;
@@ -13,3 +17,21 @@ footer {
   min-height: 80px;
   background-color: #6c63ff;
 }
+
+.btn {
+  width: 120px;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+  background-color: transparent;
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+s
