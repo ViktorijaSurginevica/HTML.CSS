@@ -45,17 +45,12 @@ footer {
   width: 370px;
   height: 552px;
   border-radius: 5px 0px 0px 0px;
-  border: 2px 0px 0px 0px;
+  border: 2px 0px 0px 0px solid #e7e7e7;
   background-color: #ffffff;
 }
 
 .link {
-  width: 43px;
-  height: 19px;
-  top: 1031px;
-  left: 536px;
-  gap: 0px;
-  opacity: 0px;
+  color: #ffffff;
   font-size: 16px;
   text-transform: capitalize;
 }
