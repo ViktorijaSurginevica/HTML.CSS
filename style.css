@@ -5,10 +5,10 @@
 }
 
 body {
-    font-family: Roboto;
-    font-weight: 400;
-    line-height: 1.2;
-    letter-spacing: -0.02em;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
 }
 
 header {
@@ -28,10 +28,15 @@ footer {
   border: 2px solid #ffffff;
   background-color: transparent;
 
-  
   font-size: 16px;
   text-align: center;
   color: #ffffff;
   text-transform: uppercase;
 }
-s
+.card {
+  width: 370px;
+  height: 552px;
+  border-radius: 5px 0px 0px 0px;
+  border: 2px 0px 0px 0px;
+  background-color: #ffffff;
+}
