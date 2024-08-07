@@ -9,11 +9,19 @@ body {
   font-weight: 400;
   line-height: 1.2;
   letter-spacing: -0.02em;
+  color: #2f2e41;
+  font-style: normal;
 }
 
 header {
   height: 80px;
   background-color: #6c63ff;
+}
+
+h1 {
+  font-size: 44px;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 footer {
@@ -39,4 +47,15 @@ footer {
   border-radius: 5px 0px 0px 0px;
   border: 2px 0px 0px 0px;
   background-color: #ffffff;
+}
+
+.link {
+  width: 43px;
+  height: 19px;
+  top: 1031px;
+  left: 536px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 16px;
+  text-transform: capitalize;
 }
