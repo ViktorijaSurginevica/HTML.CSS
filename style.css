@@ -26,8 +26,16 @@ h1 {
 }
 
 .container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  height: 100%;
+  border: 1px solid red;
 }
 
+ul {
+  list-style: none;
+}
 footer {
   min-height: 80px;
   background-color: #6c63ff;
