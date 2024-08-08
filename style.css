@@ -22,6 +22,7 @@ h1 {
   font-size: 44px;
   font-weight: 700;
   text-transform: uppercase;
+  margin-bottom: 70px;
 }
 
 footer {
@@ -35,7 +36,7 @@ footer {
   border-radius: 5px;
   border: 2px solid #ffffff;
   background-color: transparent;
-
+  font-weight: 500;
   font-size: 16px;
   text-align: center;
   color: #ffffff;
@@ -45,8 +46,13 @@ footer {
   width: 370px;
   height: 552px;
   border-radius: 5px 0px 0px 0px;
-  border: 2px 0px 0px 0px solid #e7e7e7;
+  border: 2px solid #e7e7e7;
   background-color: #ffffff;
+  padding: 46px 20px;
+}
+
+.card img {
+  margin: 40px 0 36px;
 }
 
 .link {
@@ -54,4 +60,20 @@ footer {
   font-size: 16px;
   text-transform: capitalize;
   text-decoration: none;
+}
+
+.card h2 {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.44px;
+  text-transform: uppercase;
+}
+
+.content {
+  padding: 100px 0;
+}
+
+.link-icon {
+  margin-right: 10px;
 }
